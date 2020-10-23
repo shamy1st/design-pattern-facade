@@ -1,6 +1,6 @@
-# Facade Design Pattern (Java Implementation)
+# Facade Design Pattern (Java)
 
-**Facade** provide a simple interface to a complex system.
+**Facade** simple interface to a complex system.
 ![](https://github.com/shamy1st/design-pattern-facade-java/blob/main/facade-uml.png)
 ### Problem: 
 You want to send push notifications to mobile app users.
