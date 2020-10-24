@@ -1,7 +1,7 @@
 # Facade Design Pattern (Java)
 
 **Facade** simple interface to a complex system.
-![](https://github.com/shamy1st/design-pattern-facade-java/blob/main/facade-uml.png)
+![](https://github.com/shamy1st/design-pattern-facade/blob/main/uml.png)
 ### Problem: 
 You want to send push notifications to mobile app users.
 
@@ -56,4 +56,4 @@ The issue is everytime you want to send notification you should do all these ste
         }
     }
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-facade-java/blob/main/facade-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-facade/blob/main/uml-solution.png)
